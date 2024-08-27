@@ -55,4 +55,4 @@ Desenvolver o CryptX foi uma experiência enriquecedora, especialmente por eu se
 
 ### 🌐 Acesso ao Projeto
 
-Explore e interaja com o CryptX acessando o site ao vivo [aqui](#).
+Explore e interaja com o CryptX acessando o site ao vivo [aqui](https://cripto-edir.vercel.app/).
